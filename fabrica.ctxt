@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=fabrica
+comment0.text=\r\n\ Clase\ principal\ que\ abre\ la\ aplicaci\u00F3n,\ s\u00F3lo\ contiene\ el\ m\u00E9todo\ main\ y\ un\ campo\ de\ tipo\ ControlFabrica\ para\ iniciar\ el\ programa.\ \r\n\ \r\n\ @author\ Germ\u00E1n\ Rodr\u00EDguez\ D\u00EDez\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=fabrica()
+comment1.text=\r\n\ Construye\ un\ objeto\ de\ esta\ clase,\ pero\ el\ programa\ empieza\ llamando\ al\ m\u00E9todo\ main\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ M\u00E9todo\ main\ que\ crea\ objeto\ de\ tipo\ ControlFabrica\ para\ iniciar\ el\ programa\r\n
+numComments=3

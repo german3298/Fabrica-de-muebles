@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Jefe
+comment0.text=\r\n\ Jefes\ de\ la\ f\u00E1brica.\ Pueden\ mandar\ pedidos\ a\ los\ artesanos.\r\n\ \r\n\ @author\ Germ\u00E1n\ Rodr\u00EDguez\ D\u00EDez\r\n\ @version\ 0.1\r\n
+comment1.params=ID\ sueldo\ incentivoJefe
+comment1.target=Jefe(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Construye\ un\ jefe\ con\ los\ atributos\ indicados\r\n
+comment2.params=
+comment2.target=int\ getIncentivo()
+comment2.text=\r\n\ Devuelve\ el\ incentivo\ de\ este\ jefe,\ en\ euros\r\n\ @return\ \ \ \ \ int\ del\ incentivo\r\n
+comment3.params=iP
+comment3.target=void\ setIncentivo(int)
+comment3.text=\r\n\ Establece\ el\ incentivo\ de\ este\ jefe,\ en\ euros\r\n\ @param\ \ \ iP\ \ int\ del\ incentivo\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Devuelve\ los\ atributos\ de\ este\ jefe,\ en\ texto\r\n\ @return\ \ \ \ \ Todo\ lo\ que\ tengan\ las\ superclases\ de\ esta\ clase\ y\ el\ incentivo,\ en\ string.\r\n
+numComments=5

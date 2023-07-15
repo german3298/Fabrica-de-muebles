@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MesaCafeCristal
+comment0.text=\r\n\ Mesas\ de\ caf\u00E9\ de\ cristal\ que\ hace\ la\ f\u00E1brica.\r\n\ \r\n\ @author\ Germ\u00E1n\ Rodr\u00EDguez\ D\u00EDez\r\n\ @version\ 0.1\r\n
+comment1.params=color\ altura\ forma\ numeroBases\ cristalTemplado
+comment1.target=MesaCafeCristal(java.lang.String,\ int,\ java.lang.String,\ int,\ boolean)
+comment1.text=\r\n\ Construye\ una\ mesa\ de\ caf\u00E9\ de\ cristal\ con\ los\ atributos\ indicados.\r\n
+comment2.params=
+comment2.target=boolean\ hasCristalTemplado()
+comment2.text=\r\n\ Devuelve\ si\ el\ cristal\ de\ la\ mesa\ ser\u00E1\ templado\r\n\ @return\ \ \ \ \ True\ si\ lo\ ser\u00E1,\ false\ si\ no\r\n
+comment3.params=cT
+comment3.target=void\ setCristalTemplado(boolean)
+comment3.text=\r\n\ Cambia\ el\ que\ el\ cristal\ sea\ templado\r\n\ @param\ \ \ cT\ \ booleano\ que\ indica\ si\ ser\u00E1\ templado\ el\ cristal\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Devuelve\ los\ atributos\ de\ esta\ mesa\ de\ caf\u00E9\ de\ cristal\ en\ texto\r\n\ @return\ \ \ \ \ Todo\ lo\ que\ tengan\ las\ superclases\ de\ esta\ clase\ y\ si\ el\ cristal\ es\ templado,\ en\ string.\r\n
+numComments=5

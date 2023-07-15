@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EstadoPedido
+comment0.text=\r\n\ \ Los\ diferentes\ estados\ en\ los\ que\ puede\ estar\ un\ pedido.\r\n\ \r\n\ @author\ Germ\u00E1n\ Rodr\u00EDguez\ D\u00EDez\r\n\ @version\ 0.1\r\n
+comment1.params=estadoString
+comment1.target=EstadoPedido(java.lang.String)
+comment1.text=\r\n\ Construye\ un\ estado\ del\ pedido,\ y\ le\ asigna\ el\ string\ asociado.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Devuelve\ el\ string\ asociado\ a\ cada\ estado\ del\ pedido\r\n\ @return\ \ \ \ \ el\ estado\ del\ pedido,\ en\ una\ cadena\r\n
+comment3.params=estadoInt
+comment3.target=EstadoPedido\ estadoInt(int)
+comment3.text=\r\n\ Devuelve\ el\ estado\ del\ pedido\ asociado\ a\ un\ int,\ que\ hace\ de\ indice\r\n\ @param\ \ \ \ \ estadoInt\ indice\ del\ estado\ del\ pedido,\ de\ 1\ a\ 5,\ si\ es\ 0\ o\ diferente\ devolver\u00E1\ el\ estado\ PENDIENTE\r\n\ @return\ \ \ \ \ el\ estado\ del\ pedido\r\n
+numComments=4

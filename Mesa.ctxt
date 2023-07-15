@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Mesa
+comment0.text=\r\n\ Mesas\ que\ hace\ la\ f\u00E1brica.\r\n\ \r\n\ @author\ Germ\u00E1n\ Rodr\u00EDguez\ D\u00EDez\r\n\ @version\ 0.1\r\n
+comment1.params=color\ altura\ forma
+comment1.target=Mesa(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Construye\ una\ mesa\ con\ los\ atributos\ indicados.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getForma()
+comment2.text=\r\n\ Devuelve\ la\ forma\ de\ esta\ mesa\r\n\ @return\ \ \ \ \ String\ con\ la\ forma\ de\ esta\ mesa\r\n
+comment3.params=f
+comment3.target=void\ setForma(java.lang.String)
+comment3.text=\r\n\ Cambia\ la\ forma\ de\ esta\ mesa\r\n\ @param\ \ \ f\ \ La\ nueva\ forma\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Devuelve\ los\ atributos\ de\ esta\ mesa\ en\ texto\r\n\ @return\ \ \ \ \ Todo\ lo\ que\ tengan\ las\ superclases\ de\ esta\ clase\ y\ la\ forma,\ en\ string.\r\n
+numComments=5

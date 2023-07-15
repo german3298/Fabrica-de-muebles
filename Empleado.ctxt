@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Empleado
+comment0.text=\r\n\ Empleados\ de\ la\ f\u00E1brica.\r\n\ \r\n\ @author\ Germ\u00E1n\ Rodr\u00EDguez\ D\u00EDez\r\n\ @version\ 0.1\r\n
+comment1.params=ID\ sueldo
+comment1.target=Empleado(java.lang.String,\ int)
+comment1.text=\r\n\ Construye\ un\ empleado\ con\ los\ atributos\ indicados\r\n
+comment2.params=
+comment2.target=int\ getSueldo()
+comment2.text=\r\n\ Devuelve\ el\ sueldo\ de\ este\ empleado,\ en\ euros\r\n\ @return\ \ \ \ \ int\ del\ sueldo\r\n
+comment3.params=s
+comment3.target=void\ setSueldo(int)
+comment3.text=\r\n\ Cambiar\ el\ sueldo\ de\ este\ empleado\r\n\ @param\ \ \ s\ \ int\ con\ el\ nuevo\ sueldo\ del\ empleado\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Devuelve\ los\ atributos\ de\ este\ empleado\ en\ texto\r\n\ @return\ \ \ \ \ Todo\ lo\ que\ tengan\ las\ superclases\ de\ esta\ clase\ y\ el\ sueldo,\ en\ string.\r\n
+numComments=5

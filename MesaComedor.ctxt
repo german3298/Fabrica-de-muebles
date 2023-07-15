@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MesaComedor
+comment0.text=\r\n\ Mesas\ de\ comedor\ que\ hace\ la\ f\u00E1brica.\r\n\ \r\n\ @author\ Germ\u00E1n\ Rodr\u00EDguez\ D\u00EDez\r\n\ @version\ 0.1\r\n
+comment1.params=color\ altura\ forma\ extensible
+comment1.target=MesaComedor(java.lang.String,\ int,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ Construye\ una\ mesa\ de\ comedor\ con\ los\ atributos\ indicados.\r\n
+comment2.params=
+comment2.target=boolean\ isExtensible()
+comment2.text=\r\n\ Devuelve\ si\ la\ mesa\ ser\u00E1\ extensible\r\n\ @return\ \ \ \ \ True\ si\ ser\u00E1,\ false\ si\ no\r\n
+comment3.params=e
+comment3.target=void\ setExtensible(boolean)
+comment3.text=\r\n\ Cambia\ el\ que\ sea\ extensible\ la\ mesa\r\n\ @param\ \ \ \ e\ booleano\ que\ indica\ si\ ser\u00E1\ extensible\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Devuelve\ los\ atributos\ de\ esta\ mesa\ de\ comedor\ en\ texto\r\n\ @return\ \ \ \ \ Todo\ lo\ que\ tengan\ las\ superclases\ de\ esta\ clase\ y\ si\ es\ extensible,\ en\ string.\r\n
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TipoPersona
+comment0.text=\r\n\ Todos\ los\ tipos\ de\ persona\ que\ pueden\ tener\ cuenta\ en\ el\ sistema,\ y\ que\ se\ almacenan\ en\ \u00E9l.\r\n\ \r\n\ @author\ Germ\u00E1n\ Rodr\u00EDguez\ D\u00EDez\r\n\ @version\ 0.1\r\n
+comment1.params=tipoPersonaString
+comment1.target=TipoPersona(java.lang.String)
+comment1.text=\r\n\ Construye\ un\ tipo\ de\ persona,\ y\ le\ asigna\ el\ string\ asociado.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Devuelve\ el\ string\ asociado\ a\ cada\ tipo\ de\ persona\r\n\ @return\ \ \ \ \ el\ tipo\ de\ persona,\ en\ una\ cadena\r\n
+numComments=3
